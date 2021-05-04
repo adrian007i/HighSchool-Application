@@ -1,6 +1,19 @@
-# HighSchool-Application
-Java application to store and manipulate students and teachers information as well as provide reports.  
+# HighSchool ERP Application
 
-### (File Handling, Exception Handling, Object oriented programming,GUI)
+## Features
+* Store & Manipulate Students, Teachers, Grades etc.
+* Generate reports on key details 
 
-## JAVA
+## Languages
+* Java
+
+## 
+* File Handling
+* Exception Handling
+* Object Oriented Programming
+* Java GUI's
+
+Note:
+Project Type: Academic
+Year: 2017
+Lead: Adrian John
